@@ -94,5 +94,7 @@ height: 100vh;
   }
 
   .link_block{ 
+    display: flex;
+    flex-direction: column; 
     order: 2;
   }
